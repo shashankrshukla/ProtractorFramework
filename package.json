@@ -1,0 +1,15 @@
+{
+  "name": "protractor_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shashank shukla",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "protractor": "^5.4.1"
+  }
+}
